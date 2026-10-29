@@ -1,0 +1,4 @@
+python-aea>=0.1.0
+cryptography>=42.0.0
+gunicorn
+Flask
